@@ -4,12 +4,12 @@
 My name is Derek Sheen, and I love to code and explore new technologies! I have been programming for 4+ years and started off creating android apps. I am skilled in Java, Python, and Web Development. I am most interested in Computer Science, Mathematics, and Physics. I also enjoy working with algorithms in Python and creating full-stack web apps using Flask.
 
 ## Hobbies/Interests
-- American football 🏈
-- Basketball 🏀
-- Chess ♛
-- Hackathons 💻
-- Drawing ✏️
-- Violin 🎻
+American football 🏈
+Basketball 🏀
+Chess ♛
+Hackathons 💻
+Drawing ✏️
+Violin 🎻 </br>
 
 ## GitHub Stats
 <p align="center">
