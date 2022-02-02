@@ -23,8 +23,8 @@ My name is Derek Sheen, and I love to code and explore new technologies! I have 
 
 ## Contacts
 For business inquiries or connecting
-Email: derek.s.prog@gmail.com
-Personal website: https://dereksheen.tech/
+- Email: derek.s.prog@gmail.com
+- Personal website: https://dereksheen.tech/
 
 <!--
 **derek-byte/derek-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
