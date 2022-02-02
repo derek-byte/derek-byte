@@ -3,36 +3,27 @@
 ## Who Am I?
 My name is Derek Sheen, and I love to code and explore new technologies! I have been programming for 4+ years and started off creating android apps. I am skilled in Java, Python, and Web Development. I am most interested in Computer Science, Mathematics, and Physics. I also enjoy working with algorithms in Python and creating full-stack web apps using Flask.
 
-<!-- ### Skills
+### Skills
 ##### Programming Languages
-<img align="left" src="./images/javascript.svg" width="28" height="28">
-<img align="left" src="./images/typescript.svg" width="28" height="28">
-<img align="left" src="./images/java.svg" width="28" height="28">
-<img align="left" src="./images/python.svg" width="28" height="28">
-<img align="left" src="./images/c++.svg" width="28" height="28">
-<img align="left" src="./images/ruby.svg" width="28" height="28">
-<img align="left" src="./images/html.svg" width="28" height="28">
-<img align="left" src="./images/css3.svg" width="28" height="28"><br/> -->
+<img align="left" src="./images/javascript.png" width="28" height="28">
+<img align="left" src="./images/java.png" width="28" height="28">
+<img align="left" src="./images/python.png" width="28" height="28">
+<img align="left" src="./images/c++.png" width="28" height="28">
+<img align="left" src="./images/html.png" width="28" height="28">
+<img align="left" src="./images/css3.png" width="28" height="28"><br/>
 
-<!-- #####  Databases
-<img align="left" src="./images/mongodb.svg" width="28" height="28">
-<img align="left" src="./images/mysql.svg" width="28" height="28">
-<img align="left" src="./images/firebase.svg" width="28" height="28"><br/>
+#####  Databases
+<img align="left" src="./images/mysql.png" width="28" height="28">
 
 #####  Tools/Frameworks
-<img align="left" src="./images/django.svg" width="28" height="28">
-<img align="left" src="./images/android.svg" width="28" height="28">
-<img align="left" src="./images/react.svg" width="28" height="28">
-<img align="left" src="./images/node.png" width="28" height="28">
-<img align="left" src="./images/graphql.svg" width="28" height="28">
-<img align="left" src="./images/flask.svg" width="28" height="28">
-<img align="left" src="./images/git.svg" width="28" height="28">
-<img align="left" src="./images/jira.svg" width="28" height="28">
-<img align="left" src="./images/confluence.svg" width="28" height="28"><br/> -->
+<img align="left" src="./images/android.png" width="28" height="28">
+<img align="left" src="./images/react.png" width="28" height="28">
+<img align="left" src="./images/flask.png" width="28" height="28">
+<img align="left" src="./images/git.png" width="28" height="28">
 
 ##### IoT
-<img align="left" src="./images/arduino.svg" width="28" height="28">
-<img align="left" src="./images/raspberry-pi.svg" width="28" height="28"><br/>
+<img align="left" src="./images/arduino.png" width="28" height="28">
+<img align="left" src="./images/raspberry_pi.png" width="28" height="28"><br/>
 
 ## Hobbies/Interests
 - American football 🏈
