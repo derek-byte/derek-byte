@@ -40,7 +40,7 @@ My name is Derek Sheen, and I love to code and explore new technologies! I have 
 </p>
 
 ## Current Projects
-- Chatting App 💬
+- Deep Learning for Melanoma 🔍
 - New personal website coming soon... 
 * Most repositories private
 
