@@ -17,6 +17,7 @@ My name is Derek Sheen, and I love to code and explore new technologies! I have 
 
 #####  Tools/Frameworks
 <img align="left" src="./images/android.png" width="28" height="28">
+<img align="left" src="./images/bootstrap.png" width="28" height="28">
 <img align="left" src="./images/react.png" width="28" height="28">
 <img align="left" src="./images/nodejs.png" width="28" height="28">
 <img align="left" src="./images/flask.png" width="28" height="28">
