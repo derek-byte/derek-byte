@@ -28,6 +28,11 @@ My name is Derek Sheen, and I love to code and explore new technologies! I have 
 <img align="left" src="./images/arduino.png" width="28" height="28">
 <img align="left" src="./images/raspberry_pi.png" width="28" height="28"><br/>
 
+##### Operating Systems
+<img align="left" src="./images/windows.png" width="28" height="28">
+<img align="left" src="./images/linux.png" width="28" height="28">
+<img align="left" src="./images/ubuntu.png" width="28" height="28"><br/>
+
 ## Hobbies/Interests
 - American football 🏈
 - Basketball 🏀
