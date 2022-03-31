@@ -22,6 +22,7 @@ My name is Derek Sheen, and I love to code and explore new technologies! I have 
 <img align="left" src="./images/nodejs.png" width="28" height="28">
 <img align="left" src="./images/flask.png" width="28" height="28">
 <img align="left" src="./images/django.png" width="28" height="28">
+<img align="left" src="./images/tensorflow.png" width="28" height="28">
 <img align="left" src="./images/git.png" width="28" height="28"><br/>
 
 ##### IoT
