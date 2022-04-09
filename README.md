@@ -48,7 +48,7 @@ My name is Derek Sheen, and I love to code and explore new technologies! I have 
 </p>
 
 ## Current Projects
-- Deep Learning for Melanoma 🔍
+- Deep Learning for Melanoma (CWSF) 🔍
 - New personal website coming soon... 
 * Most repositories private
 
