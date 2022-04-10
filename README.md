@@ -1,7 +1,7 @@
 # Hello, I'm Derek Sheen 👋
 
 ## Who Am I?
-My name is Derek Sheen, and I love to code and explore new technologies! I have been programming for 4+ years and started off creating android apps. I am skilled in Java, Python, and Web Development. I am most interested in Computer Science, Mathematics, and Physics. I also enjoy working with algorithms in Python and creating full-stack web apps using Flask.
+My name is Derek Sheen, and I love to code and explore new technologies! I have been programming for 5+ years and started off creating android apps. I am skilled in Java, Python, and Web Development. I am most interested in Computer Science, Mathematics, and Physics. I also enjoy working with algorithms in Python and creating full-stack web apps using Flask.
 
 ### Skills
 ##### Programming Languages
