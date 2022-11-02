@@ -27,7 +27,8 @@ My name is Derek Sheen, and I love to code and explore new technologies! I have 
 <img align="left" src="./images/tensorflow.png" width="28" height="28">
 <img align="left" src="./images/git.png" width="28" height="28">
 <img align="left" src="./images/jira.png" width="28" height="28">
-<img align="left" src="./images/confluence.png" width="28" height="28"><br/>
+<img align="left" src="./images/confluence.png" width="28" height="28">
+<img align="left" src="./images/tailwind.png" width="28" height="28"><br/>
 
 ##### IoT
 <img align="left" src="./images/arduino.png" width="28" height="28">
