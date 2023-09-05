@@ -15,7 +15,8 @@ My name is Derek Sheen, and I love to code and explore new technologies! I have 
 
 #####  Databases
 <img align="left" src="./images/mysql.png" width="28" height="28">
-<img align="left" src="./images/firebase.png" width="28" height="28"><br/>
+<img align="left" src="./images/firebase.png" width="28" height="28">
+<img align="left" src="./images/mongodb.png" width="28" height="28"><br/>
 
 #####  Tools/Frameworks
 <img align="left" src="./images/android.png" width="28" height="28">
@@ -36,6 +37,7 @@ My name is Derek Sheen, and I love to code and explore new technologies! I have 
 
 ##### Operating Systems
 <img align="left" src="./images/windows.png" width="28" height="28">
+<img align="left" src="./images/macos.png" width="28" height="28">
 <img align="left" src="./images/linux.png" width="28" height="28">
 <img align="left" src="./images/ubuntu.png" width="28" height="28"><br/>
 
