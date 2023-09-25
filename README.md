@@ -3,9 +3,7 @@
 ## Who Am I?
 Hello! I'm Derek, a student with a passion for software development. 
 
-I love to program and am skilled with many object-oriented programming languages such as Java and Python. I believe that critical and creative thinking is just one of the many important traits in the workforce that I am always trying to work on. I'm always open to learning new skills and participating in opportunities that can make positive impacts locally or globally! You can learn more about me at my website: https://www.dereksheen.tech/
-
-Let's connect! I'm always open to meeting new people and learning new things!
+I love to program and am skilled with many object-oriented programming languages such as Java and Python. I believe that critical and creative thinking is just one of the many important traits in the workforce that I am always trying to work on. I'm always open to learning new skills and participating in opportunities that can make positive impacts locally or globally. I'm always open to meeting new people and learning new things!
 
 ### Skills
 ##### Programming Languages
