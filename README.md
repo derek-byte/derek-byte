@@ -53,7 +53,7 @@ I love to program and am skilled with many object-oriented programming languages
 
 ## GitHub Stats
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=derek-byte&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derek-byte&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=8&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=derek-byte&theme=sunset-gradient&hide_border=true" alt="GitHub Streak" /></a>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=derek-byte&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derek-byte&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=8&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/><img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=derek-byte&theme=sunset-gradient&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Current Projects
