@@ -1,6 +1,6 @@
 ### derek sheen
 
-`current:` eng @ [angellist](https://www.angellist.com/), full service (venture) | software eng @ uwaterloo 
+`current:` eng @ [angellist](https://www.angellist.com/), fund-admin ([venture](https://www.angellist.com/fund-administration/venture-funds)) | software eng @ uwaterloo 
 
 `prev:` mots @ [deepai](https://deepai.org/) (30m mau, [2024](https://a16z.com/100-gen-ai-apps-4/), [2025](https://a16z.com/100-gen-ai-apps-5/)), eng @ [sera4](https://sera4.com/) (enterprise cyber-security)
 
@@ -8,5 +8,6 @@
 
 `misc:` 8x hackathon winner, competitive math & programming, half-marathon runner, violin
 
+\\
 
 [website](https://dsheen.dev) | [linkedin](https://linkedin.com/in/derek-sheen) | [x](https://x.com/dereksheen_) | [email](derek55003@gmail.com)
